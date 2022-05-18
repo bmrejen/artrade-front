@@ -9,12 +9,6 @@
 
 ---
 
-### Extra Additions
-- Conventional Commits using `Commitlint`
-- Run Lint Checks, TS Checks, Formatting & Unit Tests  in Pre-commit via `lintstaged` & `husky`
-
----
-
 ### Usage (with [degit](https://github.com/Rich-Harris/degit))
 ```bash
 degit uchihamalolan/vite-react-ts your-app-name
